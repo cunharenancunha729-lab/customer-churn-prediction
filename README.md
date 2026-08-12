@@ -293,7 +293,7 @@ Falta de tempo.
 
 Esses fatores podem orientar futuras ações de produto e experiência do usuário.
 
- Tecnologias utilizadas
+ 🛠️ Tecnologias utilizadas
 Linguagem
 Python
 Bibliotecas
@@ -315,22 +315,6 @@ F1-score
 Classification Report
 Ambiente
 Jupyter Notebook
- Estrutura do projeto
-customer-churn-prediction/
-│
-├── data/
-│   └── Dataset_Streaming_Clientes - Página1.csv
-│
-├── notebooks/
-│   └── predicao_churn_assinaturas.ipynb
-│
-├── README.md
-│
-├── requirements.txt
-│
-└── .gitignore
- O que este projeto demonstra
-
 Este projeto demonstra a capacidade de desenvolver um fluxo de Ciência de Dados de ponta a ponta, incluindo:
 
 Problema de negócio
